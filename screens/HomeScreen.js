@@ -121,7 +121,7 @@ const styles = StyleSheet.create({
     paddingTop: 30
   },
   welcomeContainer: {
-    alignItems: "center",
+    alignItems: "flex-start",
     marginTop: 10,
     marginBottom: 20
   },
